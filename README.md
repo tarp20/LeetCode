@@ -1,2 +1,2 @@
 # LeetCode
- LeetCode taska
+ LeetCode tasks
